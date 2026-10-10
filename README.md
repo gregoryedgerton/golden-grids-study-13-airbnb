@@ -1,11 +1,11 @@
-# Layout study — Airbnb, second pass, as GIFcommit
+# Layout study — Airbnb, second pass, as GIFbnb
 
 **Live:** [`https://gregoryedgerton.github.io/golden-grids-study-13-airbnb/`](https://gregoryedgerton.github.io/golden-grids-study-13-airbnb/)
 
 An unaffiliated layout study. It rebuilds three pages of
 [airbnb.com](https://www.airbnb.com/) (the home page, the search results for
 Provincetown, Massachusetts, and a hotel's listing) as stacked golden grids
-under the GIFcommit brand. GIFcommit is not Airbnb. Every stay, price and
+under the GIFbnb brand. GIFbnb is not Airbnb. Every stay, price and
 rating is invented, nothing can be booked, no form sends anything, and none of
 the reference's sentences, photographs, icons or marks is reproduced. Built
 with [Golden Grids](https://github.com/gregoryedgerton/golden-grids) from the

@@ -15,7 +15,7 @@ function App() {
   const d = PLACES;
   return (
     <Page current={PAGES.home} source={REFERENCE.home} bar={<SearchBar />}>
-      <h1 className="visually-hidden">GIFcommit: homes to stay in</h1>
+      <h1 className="visually-hidden">GIFbnb: homes to stay in</h1>
       <GridBand id="destinations" title="Destinations for you" sub="Nine places, each a short trip from the last"
         cells={[place(d.provincetown), place(d.boston), place(d.capemay), place(d.nyc)]} strip={fact(FACTS.sea)} from={3} variant={0} lead />
       <GridBand id="homes" title="Popular homes in Provincetown" sub="The harbor town at the tip of Cape Cod" aside={{ href: PAGES.search, label: "See all" }}

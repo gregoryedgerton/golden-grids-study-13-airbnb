@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "description": "Golden Grids layout study 13: Airbnb's home page, a search for Provincetown and a hotel listing as stacked golden grids under the GIFcommit brand, with type that scales to its square and photographs under open licences.",
+  "description": "Golden Grids layout study 13: Airbnb's home page, a search for Provincetown and a hotel listing as stacked golden grids under the GIFbnb brand, with type that scales to its square and photographs under open licences.",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",

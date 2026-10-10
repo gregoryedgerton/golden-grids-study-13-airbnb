@@ -1,7 +1,7 @@
 {
   "number": "13",
   "name": "Airbnb",
-  "notice": "A layout study, not Airbnb: its home page, a search and a listing rebuilt with Golden Grids by GIFcommit. Not affiliated with Airbnb; every stay and price is invented and nothing can be booked.",
+  "notice": "A layout study, not Airbnb: its home page, a search and a listing rebuilt with Golden Grids as GIFbnb, a parody name. Not affiliated with Airbnb; every stay and price is invented and nothing can be booked.",
   "pages": {
     "index": "Home",
     "search": "Stays in Provincetown",
@@ -35,7 +35,7 @@
   "invented": [
     "Every stay: its description, price, rating, number of reviews, dates, amenities and position on the map. They follow the kinds of home and the fields on a card that the reference showed, and none of its wording.",
     "The hotel. The reference listing is a real hotel in Provincetown; The Tideline is not, and nothing of the real hotel's name, photographs, text or address is used. Its rooms, rates, rules, walking times and availability are made up, and availability is arithmetic on the dates.",
-    "The services' descriptions, and the brand. GIFcommit stands where the reference's name would be.",
+    "The services' descriptions, and the brand. GIFbnb is a parody name made for this study and stands where the reference's name would be.",
     "What the photographs stand for. Each is a real photograph of a real place, but none shows a stay offered here, and the places pictured are not for rent through this page.",
     "The dark colour scheme, which the reference does not have on the web, and the saved list, which lives only in the browser tab."
   ],

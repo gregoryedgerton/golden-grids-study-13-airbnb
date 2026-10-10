@@ -25,7 +25,7 @@ export function Page({ current, source, bar, children }: { current: string; sour
       <Tools />
       <header className="top">
         <div className="wrap top__bar">
-          <a className="wordmark" href={PAGES.home}>GIFcommit</a>
+          <a className="wordmark" href={PAGES.home}>GIFbnb</a>
           <nav className="nav" aria-label="Primary">
             <ul>{NAV.map((n) => <li key={n.href}><a href={n.href} aria-current={n.href === current ? "page" : undefined}><Icon name={n.icon} size={22} />{n.label}</a></li>)}</ul>
           </nav>
@@ -53,7 +53,7 @@ export function Page({ current, source, bar, children }: { current: string; sour
             </ul>
           </div>
         </div>
-        <div className="wrap foot__base"><span>GIFcommit, a layout study</span><span>English (US)</span><span>$ USD</span></div>
+        <div className="wrap foot__base"><span>GIFbnb, a layout study</span><span>English (US)</span><span>$ USD</span></div>
       </footer>
       <StudyDisclosure>
         <p>This page follows <a href={source.url}>{source.label}</a> as it was shown on October 9, 2026.</p>
