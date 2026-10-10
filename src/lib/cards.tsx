@@ -225,7 +225,7 @@ export function FactTile({ f, x, slotKey }: { f: Fact; x: ExpandGroup; slotKey: 
       source={src?.short}
       body={f.body ? <p>{f.body}</p> : undefined}
       link={f.href ? { href: f.href, label: f.cta ?? "See more", aria: `${f.cta ?? "See more"}: ${title}` } : undefined}
-      expand={f.long ? { group: x, slotKey, title, full: <div className="cell__prose"><p>{f.body}</p><p>{f.long}</p></div>, related: src ? [{ href: src.url, label: `Source: ${src.full}` }] : [] } : undefined}
+      expand={f.long ? { group: x, slotKey, title, full: <div className="cell__prose"><p>{f.body}</p><p>{f.long}</p></div>, related: src && !("ref" in src) ? [{ href: src.url, label: `Source: ${src.full}` }] : [] } : undefined}
     >
       {f.line}
     </FactBox>
