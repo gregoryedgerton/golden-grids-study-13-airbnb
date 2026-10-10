@@ -154,6 +154,10 @@ the code.
 - **Type fits its square** (`src/lib/fit.tsx`, `src/lib/boxes.tsx`): one
   fact per square, as large as the square allows; nothing is ever clipped;
   the fitted line's container is a definite box (`flex: 1 1 0`).
+- **More text, and variation from the subject:** body copy from ~200px of
+  square height, the fuller passage from ~320px, bullet lists from ~480px;
+  a large faint drawing of the square's subject behind the text (`imprint`)
+  as the variation lever.
 - **Depth in flow:** expansion in place, an item from a row opening its own
   band, section links, several pages when the reference has several. Every
   drill-down exits one way plus Escape: a labelled Close at the top right of
@@ -219,3 +223,4 @@ Every study ships these, and the template provides them:
   the study does, described and not argued) and "Notes for review" (plain
   observations, no verdict). A study does not say whether Golden Grids suited
   the page; see rule 3 in `PROGRAM.md`.
+- `captures/cells.cjs` — opens every expandable square at a phone width and fails on horizontal overflow or a head that does not stay locked under the notice.

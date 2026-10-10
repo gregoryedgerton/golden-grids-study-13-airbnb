@@ -136,6 +136,17 @@ turns every style write into a transition and breaks anything that
 measures after writing. Clips become their stills; any dial becomes a static
 layout. Verify with the device setting on, not only the tools switch.
 
+**Opened cells hold on a phone.** An opened cell never widens the page, and its
+head stays locked under the notice (and under any bar that really sticks)
+while its content scrolls beneath. A grid item that holds a list set to
+`white-space: nowrap` or `overflow-x: auto` must have `min-width: 0` and a
+`minmax(0, 1fr)` track, or the whole column takes the width of the list; a bar
+that scrolls away on a phone must publish `--bar-h: 0` (read the computed
+`position`, not the breakpoint); form controls are 16px on a phone so iOS does
+not zoom the page when one is focused. `captures/cells.cjs` opens every
+expandable square at a phone width in WebKit and Chrome and fails on any of it.
+(Greg, Studies 13 to 15.)
+
 **Accessibility is audited, not assumed.** Before publishing run
 `captures/scan.cjs` against the dev server: in Chrome and WebKit, at 390,
 820 and 1440, light and dark, it finds anything overflowing its box, any

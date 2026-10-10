@@ -8,15 +8,16 @@ import { toggleSaved, useSaved } from "./saved";
 
 /** Flat modules: bars, lists and forms. They are not grids because their content has no hierarchy to descend. */
 
-/** A bar that sticks under the notice tells the page its height, so an opened square's head and in-page links clear it. */
+/** A bar that sticks under the notice tells the page its height, so an opened square's head and in-page links clear it. It reports 0 when it is not sticking (a bar that scrolls away on a phone must not push an opened cell's head down). */
 function useBarHeight<T extends HTMLElement>() {
   const ref = useRef<T>(null);
   useLayoutEffect(() => {
     const el = ref.current; if (!el) return;
-    const set = () => document.documentElement.style.setProperty("--bar-h", `${Math.round(el.getBoundingClientRect().height)}px`);
+    const set = () => document.documentElement.style.setProperty("--bar-h", getComputedStyle(el).position === "sticky" ? `${Math.round(el.getBoundingClientRect().height)}px` : "0px");
     set();
     const ro = new ResizeObserver(set); ro.observe(el);
-    return () => { ro.disconnect(); document.documentElement.style.removeProperty("--bar-h"); };
+    window.addEventListener("resize", set);
+    return () => { ro.disconnect(); window.removeEventListener("resize", set); document.documentElement.style.removeProperty("--bar-h"); };
   }, []);
   return ref;
 }

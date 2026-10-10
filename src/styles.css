@@ -359,6 +359,14 @@ a.box--strip:hover .fit { text-decoration: underline; text-underline-offset: 4px
 
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; animation: none !important; } .map__pin:hover, .map__pin:focus-visible { transform: translate(-50%, -50%); } }
 
+/* An opened cell never widens the page: its columns may shrink below their content, media never exceeds its box, and on a phone a form control is 16px so iOS does not zoom the page when it is focused. */
+.cell, .cell__split, .cell__body, .detail { min-width: 0; max-width: 100%; }
+.cell__split > *, .cell__body > * { min-width: 0; }
+.cell img { max-width: 100%; }
+@media (max-width: 639px) {
+  input:not([type="checkbox"]):not([type="radio"]):not([type="range"]), select, textarea { font-size: 16px !important; }
+}
+
 /* The Close on an opened square is the study's secondary button: the reference's grey 12px-cornered one. */
 :root {
   --cta2-font: 600 15px/1.2 var(--font);
