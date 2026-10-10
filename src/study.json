@@ -1,0 +1,78 @@
+{
+  "number": "13",
+  "name": "Airbnb",
+  "notice": "A layout study, not Airbnb: its home page, a search and a listing rebuilt with Golden Grids by GIFcommit. Not affiliated with Airbnb; every stay and price is invented and nothing can be booked.",
+  "pages": {
+    "index": "Home",
+    "search": "Stays in Provincetown",
+    "stay": "The Tideline"
+  },
+  "summary": "Three pages of airbnb.com (the home page, the search results for Provincetown, Massachusetts, and a hotel's listing) rebuilt as stacked golden grids, with the type on each card scaled to the square it sits in.",
+  "reviewed": {
+    "date": "October 9, 2026",
+    "method": "Read in a desktop browser at about 1,024 pixels wide, signed out, with text and computed styles taken from the pages. No screenshot of the reference is kept or published.",
+    "pages": [
+      {
+        "label": "Home page",
+        "url": "https://www.airbnb.com/"
+      },
+      {
+        "label": "Search results, Provincetown, Massachusetts",
+        "url": "https://www.airbnb.com/s/Provincetown--MA/homes"
+      },
+      {
+        "label": "A hotel's listing in Provincetown",
+        "url": "https://www.airbnb.com/rooms/1758691142566618626"
+      }
+    ]
+  },
+  "real": [
+    "The places: Provincetown and the other destinations, and what is said about them, from the Wikipedia articles named in each page's sources.",
+    "The figures set as large type, each with its source: 252 feet, 3,664 residents, 60,000 in summer, 43,607 acres, 45 miles, and the rest.",
+    "The count of over 1,000 homes for Provincetown and the list of ten services, which are what the reference showed on the day it was read.",
+    "The map, drawn from OpenStreetMap data: the coastline, the streets and the wharves are where they are."
+  ],
+  "invented": [
+    "Every stay: its description, price, rating, number of reviews, dates, amenities and position on the map. They follow the kinds of home and the fields on a card that the reference showed, and none of its wording.",
+    "The hotel. The reference listing is a real hotel in Provincetown; The Tideline is not, and nothing of the real hotel's name, photographs, text or address is used. Its rooms, rates, rules, walking times and availability are made up, and availability is arithmetic on the dates.",
+    "The services' descriptions, and the brand. GIFcommit stands where the reference's name would be.",
+    "What the photographs stand for. Each is a real photograph of a real place, but none shows a stay offered here, and the places pictured are not for rent through this page.",
+    "The dark colour scheme, which the reference does not have on the web, and the saved list, which lives only in the browser tab."
+  ],
+  "assets": [
+    {
+      "what": "Photographs of places and house exteriors",
+      "source": "Wikimedia Commons and Flickr contributors, each credited below and beside the photograph when it is opened",
+      "licence": "CC BY, CC BY-SA, CC0 or public domain, as stated for each"
+    },
+    {
+      "what": "Photographs of interiors and of Provincetown's waterfront",
+      "source": "Unsplash photographers, each credited below and beside the photograph when it is opened",
+      "url": "https://unsplash.com/license",
+      "licence": "Unsplash License (free to use; not a Creative Commons licence)"
+    },
+    {
+      "what": "Map",
+      "source": "© OpenStreetMap contributors, drawn by the study from data fetched October 9, 2026",
+      "url": "https://www.openstreetmap.org/copyright",
+      "licence": "Open Database License"
+    },
+    {
+      "what": "Facts and figures",
+      "source": "Wikipedia articles, reworded",
+      "licence": "CC BY-SA 4.0"
+    },
+    {
+      "what": "Icons",
+      "source": "Drawn for the study; none is the reference's"
+    },
+    {
+      "what": "Typeface",
+      "source": "Figtree, standing in for the reference's own face",
+      "licence": "SIL Open Font License"
+    }
+  ],
+  "owner": "Airbnb, Inc.",
+  "repo": "https://github.com/gregoryedgerton/golden-grids-study-13-airbnb",
+  "updated": "October 9, 2026"
+}

@@ -1,0 +1,17 @@
+[out:json][timeout:60][bbox:42.015,-70.26,42.09,-70.11];
+(
+  way["natural"="coastline"];
+  way["highway"~"^(trunk|primary|secondary|tertiary|unclassified|residential|living_street|pedestrian)$"];
+  way["man_made"="pier"];
+  way["man_made"="breakwater"];
+  way["natural"="water"];
+  relation["natural"="water"];
+  way["natural"="beach"];
+  way["natural"="sand"];
+  way["natural"="wood"];
+  node["place"~"^(town|village)$"];
+  node["man_made"="lighthouse"];
+  way["man_made"="lighthouse"];
+  nwr["name"="Pilgrim Monument"];
+);
+out geom;

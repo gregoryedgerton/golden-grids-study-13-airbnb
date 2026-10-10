@@ -1,0 +1,432 @@
+{
+ "d-provincetown": {
+  "credit": "Ruth H Curtis",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-tall-clock-tower-towering-over-a-city-next-to-a-body-of-water-ZgZuFytbmXY",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@ruthc333",
+  "alt": "Provincetown from the harbor: shingled waterfront buildings along the shore and the granite Pilgrim Monument above the town",
+  "w": 1807,
+  "h": 1200
+ },
+ "d-boston": {
+  "credit": "King of Hearts",
+  "licence": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Boston_skyline_from_South_Boston_November_2015.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Boston skyline from South Boston November 2015.jpg",
+  "alt": "Boston's downtown towers seen across the harbor from a stone walkway in South Boston",
+  "w": 1920,
+  "h": 1200
+ },
+ "d-capemay": {
+  "credit": "King of Hearts",
+  "licence": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cape_May_Lighthouse_September_2020_002.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Cape May Lighthouse September 2020 002.jpg",
+  "alt": "Cape May Lighthouse above the dunes at sunset",
+  "w": 1920,
+  "h": 1280
+ },
+ "d-nyc": {
+  "credit": "Jakub Hałun",
+  "licence": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:View_of_Manhattan_from_Brooklyn_Bridge_Park,_New_York_City,_20231005_0912_2144.jpg",
+  "source": "Wikimedia Commons",
+  "title": "View of Manhattan from Brooklyn Bridge Park, New York City, 20231005 0912 2144.jpg",
+  "alt": "Lower Manhattan seen across the East River from the old pier pilings at Brooklyn Bridge Park",
+  "w": 1920,
+  "h": 1282
+ },
+ "d-philadelphia": {
+  "credit": "King of Hearts",
+  "licence": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Philadelphia_from_South_Street_Bridge_July_2016_panorama_2.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Philadelphia from South Street Bridge July 2016 panorama 2.jpg",
+  "alt": "The Philadelphia skyline along the Schuylkill River, seen from the South Street Bridge",
+  "w": 3072,
+  "h": 1280
+ },
+ "d-washington": {
+  "credit": "DXR",
+  "licence": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:U.S._Capitol,_Washington,_D.C.,_West_View_20110826_1.jpg",
+  "source": "Wikimedia Commons",
+  "title": "U.S. Capitol, Washington, D.C., West View 20110826 1.jpg",
+  "alt": "The west front of the United States Capitol under a cloudy sky",
+  "w": 1793,
+  "h": 1280
+ },
+ "d-sanjuan": {
+  "credit": "Godot13",
+  "licence": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:USA-2016-Puerto_Rico-San_Juan-Castillo_San_Felipe_del_Morro_Lighthouse_03.jpg",
+  "source": "Wikimedia Commons",
+  "title": "USA-2016-Puerto Rico-San Juan-Castillo San Felipe del Morro Lighthouse 03.jpg",
+  "alt": "The lighthouse on the walls of Castillo San Felipe del Morro in San Juan, the sea behind it",
+  "w": 1920,
+  "h": 1280
+ },
+ "d-miami": {
+  "credit": "Radomianin",
+  "licence": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lifeguard_stand,_Miami_Beach.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Lifeguard stand, Miami Beach.jpg",
+  "alt": "A purple and orange lifeguard stand on the sand at Miami Beach",
+  "w": 1920,
+  "h": 1280
+ },
+ "d-nashville": {
+  "credit": "Jschnake",
+  "licence": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Nashville_Skyline_from_Ft_Negly-_June_2022.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Nashville Skyline from Ft Negly- June 2022.jpg",
+  "alt": "The Nashville skyline above a line of trees, seen from Fort Negley",
+  "w": 1707,
+  "h": 1280
+ },
+ "cm-manor": {
+  "credit": "King of Hearts",
+  "licence": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Stockton_Manor_Cape_May_September_2020.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Stockton Manor Cape May September 2020.jpg",
+  "alt": "A three-storey Victorian house in Cape May with a wraparound porch and a brick walk up to the door",
+  "w": 1920,
+  "h": 1280
+ },
+ "cm-sewell": {
+  "credit": "King of Hearts",
+  "licence": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sewell_House_Cape_May_October_2020.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Sewell House Cape May October 2020.jpg",
+  "alt": "A wide two-storey house in Cape May with double porches and a clipped lawn",
+  "w": 2276,
+  "h": 1280
+ },
+ "cm-porch": {
+  "credit": "Bmzuckerman",
+  "licence": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hybrid_-_Early_Victorian_(Gothic_Revival,_Italianate)_-_Cape_May,_NJ_-_Eldridge_Johnson_House_(2).jpg",
+  "source": "Wikimedia Commons",
+  "title": "Hybrid - Early Victorian (Gothic Revival, Italianate) - Cape May, NJ - Eldridge Johnson House (2).jpg",
+  "alt": "A Cape May house with two tiers of arched, lace-like white porch trim",
+  "w": 1920,
+  "h": 1282
+ },
+ "cm-mansard": {
+  "credit": "Bmzuckerman",
+  "licence": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hybrid_-_Early_Victorian_(Gothic_Revival,_Italianate,_Mansard)_-_Cape_May,_NJ_-_John_B._McCreary_House_(1).jpg",
+  "source": "Wikimedia Commons",
+  "title": "Hybrid - Early Victorian (Gothic Revival, Italianate, Mansard) - Cape May, NJ - John B. McCreary House (1).jpg",
+  "alt": "A grey-green Victorian house in Cape May with a mansard tower and a long front porch",
+  "w": 1920,
+  "h": 1282
+ },
+ "l-hotel": {
+  "credit": "Yucel M",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/assorted-color-wall-frames-V9jGkwfXN7A",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@ymoran",
+  "alt": "A pale sofa with green and grey cushions under a wall hung edge to edge with framed prints",
+  "w": 2134,
+  "h": 1200
+ },
+ "l-white-bedroom": {
+  "credit": "Mitchell Luo",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-bedroom-with-a-white-bed-and-a-painting-on-the-wall--bujWNpNegs",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@mitchel3uo",
+  "alt": "A white bedroom with rust-coloured cushions on the bed, a framed owl print and a corner window",
+  "w": 1800,
+  "h": 1200
+ },
+ "l-monument-view": {
+  "credit": "Franco Debartolo",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/living-room-with-large-windows-overlooking-a-lake-and-balcony-B-DC4MNlGR8",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@francotheshooter",
+  "alt": "A living room with a grey sofa and a wall of windows over a balcony and open water",
+  "w": 1800,
+  "h": 1200
+ },
+ "l-bay-window": {
+  "credit": "Shaylyn",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-living-room-with-a-large-window-overlooking-the-ocean-Teyc14gGM3E",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@mpadb",
+  "alt": "A dim living room whose three windows are filled by a calm blue sea",
+  "w": 1600,
+  "h": 1200
+ },
+ "l-dining-sea": {
+  "credit": "Caroline Badran",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/contemporary-dining-area-overlooking-the-beach-and-ocean-W3MckxPY6Mo",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@___atmos",
+  "alt": "A round dining table and wooden chairs in a glass-walled room above a beach",
+  "w": 1800,
+  "h": 1200
+ },
+ "l-wharf": {
+  "credit": "Tyler Butler",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-group-of-people-standing-on-a-dock-next-to-a-body-of-water-bl0Ki87z2tg",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@tylerohiobutler",
+  "alt": "A Provincetown wharf whose pilings are hung with painted buoys, shingled buildings beside it and boats beyond",
+  "w": 1800,
+  "h": 1200
+ },
+ "l-beachfront": {
+  "credit": "scott ocamb",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/two-boats-on-the-shore-of-a-beach-FdPHhOq_FK0",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@socamb",
+  "alt": "A small boat pulled up on the harbor beach at low tide, waterfront houses behind it",
+  "w": 1793,
+  "h": 1200
+ },
+ "l-green-kitchen": {
+  "credit": "Clay Banks",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/dark-green-kitchen-with-cream-refrigerator-ya1t9IW_cIc",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@claybanks",
+  "alt": "A kitchen with dark green cabinets, a butcher-block counter, a cream refrigerator and flowers in a jug",
+  "w": 1800,
+  "h": 1200
+ },
+ "l-white-kitchen": {
+  "credit": "Callum Hill",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-kitchen-with-white-cabinets-and-a-wood-floor-sh1ovoOdCGM",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@inkyhills",
+  "alt": "A new white kitchen with a wall oven, a green tile splashback and a pale wood floor",
+  "w": 1801,
+  "h": 1201
+ },
+ "l-cottage": {
+  "credit": "BriYYZ from Toronto, Canada",
+  "licence": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:A_perfect_cottage_(8034108770).jpg",
+  "source": "Wikimedia Commons",
+  "title": "A perfect cottage (8034108770).jpg",
+  "alt": "A shingled Provincetown cottage with a red gable behind a white picket fence and a flower garden",
+  "w": 1707,
+  "h": 1280
+ },
+ "l-sea-window": {
+  "credit": "note thanun",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-window-with-a-view-of-the-ocean-AT1LcNqyGZ0",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@notethanun",
+  "alt": "A wide window with a view over a railing to a sunlit sea",
+  "w": 1600,
+  "h": 1201
+ },
+ "l-deck-house": {
+  "credit": "Elisa Rolle",
+  "licence": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Provincetown_Historic_District,_4.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Provincetown Historic District, 4.jpg",
+  "alt": "A white Provincetown house with an upper deck, seen over a hedge of pale roses",
+  "w": 1280,
+  "h": 1707
+ },
+ "l-1850s": {
+  "credit": "Elisa Rolle",
+  "licence": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Provincetown_Historic_District,_1.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Provincetown Historic District, 1.jpg",
+  "alt": "A lavender Greek Revival house in Provincetown with white trim and a bracketed cornice",
+  "w": 1280,
+  "h": 1707
+ },
+ "l-loft": {
+  "credit": "Clay Banks",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/cozy-living-room-with-wood-stove-and-sofa-wluBK3L6bl0",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@claybanks",
+  "alt": "A white-boarded room with a wood stove, a grey sofa, a low table and exposed beams",
+  "w": 1800,
+  "h": 1200
+ },
+ "l-fireplace": {
+  "credit": "Clay Banks",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-fire-place-Iy0cr3k7YoM",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@claybanks",
+  "alt": "A beamed living room with a fire burning in a brick hearth and two leather armchairs",
+  "w": 1801,
+  "h": 1200
+ },
+ "l-guesthouse": {
+  "credit": "Omri D. Cohen",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/white-wooden-house-surrounded-by-green-trees-under-blue-sky-during-daytime-S5gUvMmFKtk",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@omridcohen",
+  "alt": "A small shingled carriage house with pale green doors and a cupola, set in a clipped hedge",
+  "w": 1600,
+  "h": 1200
+ },
+ "l-dune": {
+  "credit": "Carol M. Highsmith",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Part_of_a_string_of_individually_named_Days%27_Cottages_on_Massachusetts%27_Cape_Cod,_by_Carol_M._Highsmith,_2019,_from_the_Library_of_Congress_-_master-pnp-highsm-57300-57390a.tif",
+  "source": "Wikimedia Commons",
+  "title": "Part of a string of individually named Days' Cottages on Massachusetts' Cape Cod, by Carol M. Highsmith, 2019, from the Library of Congress - master-pnp-highsm-57300-57390a.tif",
+  "alt": "A row of identical small white cottages with green shutters on the bay shore at North Truro",
+  "w": 1920,
+  "h": 1280
+ },
+ "l-hydrangea": {
+  "credit": "Omri D. Cohen",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/white-and-gray-wooden-house-near-green-trees-under-white-clouds-during-daytime-Qjc6QtIEjjg",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@omridcohen",
+  "alt": "A grey shingled house with a covered porch behind a bank of blue hydrangeas",
+  "w": 1600,
+  "h": 1200
+ },
+ "h-bed": {
+  "credit": "Lori Payne",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-stylish-bedroom-with-a-metal-bed-and-artwork-XWgTzyymwj8",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@einheitconsulting",
+  "alt": "A bedroom with an iron bed, a yellow blanket, a bench at its foot and framed pictures on white walls",
+  "w": 1600,
+  "h": 1200
+ },
+ "h-roof": {
+  "credit": "Hassan OUAJBIR",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/three-white-lawn-chair-with-orange-pillows-d2DpUL7JlTg",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@hazardos",
+  "alt": "Three white loungers with orange cushions on a sunlit roof terrace",
+  "w": 1800,
+  "h": 1200
+ },
+ "h-exterior": {
+  "credit": "Elisa Rolle",
+  "licence": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Provincetown_Historic_District,_5.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Provincetown Historic District, 5.jpg",
+  "alt": "A white three-storey house in Provincetown with a rooftop cupola, behind a white picket fence",
+  "w": 1280,
+  "h": 1707
+ },
+ "h-lane": {
+  "credit": "Evan Levesque",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-narrow-alley-way-with-flowers-on-the-side-mqmM9WU6ULA",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@evanlev10",
+  "alt": "A brick lane between white clapboard buildings in Provincetown, flowers along one side",
+  "w": 1800,
+  "h": 1200
+ },
+ "r-premium": {
+  "credit": "ubeyonroad",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/modern-living-room-with-green-sofa-and-brick-wall-ojLOdyLG_as",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@ubeyonroad",
+  "alt": "A sitting room with a green sofa, a round table, a television and a wall of exposed brick",
+  "w": 1800,
+  "h": 1200
+ },
+ "r-deluxe": {
+  "credit": "Khadeeja Yasser",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/pillows-againts-wooden-headboard-msFZE7d9KB4",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@k_yasser",
+  "alt": "A bed with white linen and striped cushions against a carved wooden headboard, a lantern hanging beside it",
+  "w": 1600,
+  "h": 1200
+ },
+ "r-king": {
+  "credit": "ubeyonroad",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-neatly-made-bed-with-white-linens-and-pillows-wItbwu49Wdc",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@ubeyonroad",
+  "alt": "A bed with white linen and a grey upholstered headboard under a relief panel on a white wall",
+  "w": 1800,
+  "h": 1200
+ },
+ "r-shared": {
+  "credit": "Howard Walsh",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-vintage-bedroom-with-a-metal-bed-frame-and-window-1yv5NSV0B-Y",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@hswalsh",
+  "alt": "An iron bed with a patchwork quilt under the slope of a dormer window",
+  "w": 1600,
+  "h": 1200
+ },
+ "r-queen": {
+  "credit": "Clay Banks",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-bed-sitting-in-a-bedroom-next-to-a-window-OZhn6zYiVVE",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@claybanks",
+  "alt": "A brass bed with white linen in a plain white room with a wooden floor and curtained windows",
+  "w": 1801,
+  "h": 1200
+ },
+ "r-garden": {
+  "credit": "Clay Banks",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-cozy-bedroom-has-drinks-on-a-table-ghN8sI7MDpM",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@claybanks",
+  "alt": "A room with a deep blue door and panelling, patterned wallpaper and a round table set with juice",
+  "w": 1800,
+  "h": 1200
+ },
+ "r-twin": {
+  "credit": "Clay Banks",
+  "licence": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-room-with-two-beds-and-a-rug-on-the-floor-vFXMsnuOMTg",
+  "source": "Unsplash",
+  "profile": "https://unsplash.com/@claybanks",
+  "alt": "Two iron beds under the eaves on either side of a dormer window with a small desk",
+  "w": 1801,
+  "h": 1200
+ },
+ "p-harbor": {
+  "credit": "RoySmith",
+  "licence": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Provincetown_Harbor_and_Long_Point.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Provincetown Harbor and Long Point.jpg",
+  "alt": "Provincetown from the air: the town's roofs, MacMillan Pier reaching into the harbor and Long Point curving round the bay",
+  "w": 2280,
+  "h": 1280
+ }
+}

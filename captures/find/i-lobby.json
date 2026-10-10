@@ -1,0 +1,62 @@
+[
+ {
+  "title": "Standiford Motel, Louisville Kentucky 1960s",
+  "credit": "1950sUnlimited",
+  "licence": "CC BY 2.0",
+  "page": "https://www.flickr.com/photos/28761247@N04/8510232771",
+  "thumb": "https://api.openverse.org/v1/images/e0dafe56-a706-40c7-b036-abbb9082146f/thumb/",
+  "full": "https://live.staticflickr.com/8101/8510232771_d084d46055.jpg",
+  "w": 500,
+  "h": 320,
+  "source": "Flickr",
+  "desc": ""
+ },
+ {
+  "title": "Mermaid Inn Lounge 1",
+  "credit": "ahisgett",
+  "licence": "CC BY 2.0",
+  "page": "https://www.flickr.com/photos/37804979@N00/4907413151",
+  "thumb": "https://api.openverse.org/v1/images/6365e9e7-4980-4f7a-9f0b-7655a5939fa7/thumb/",
+  "full": "https://live.staticflickr.com/4079/4907413151_0646ddba14_b.jpg",
+  "w": 1024,
+  "h": 683,
+  "source": "Flickr",
+  "desc": ""
+ },
+ {
+  "title": "Regina Inn Lobby Lounge",
+  "credit": "colros",
+  "licence": "CC BY 2.0",
+  "page": "https://www.flickr.com/photos/73416633@N00/533895273",
+  "thumb": "https://api.openverse.org/v1/images/2555fabb-54c5-4952-a031-6ec9a89fa597/thumb/",
+  "full": "https://live.staticflickr.com/1129/533895273_2c5cf56bba_b.jpg",
+  "w": 1024,
+  "h": 767,
+  "source": "Flickr",
+  "desc": ""
+ },
+ {
+  "title": "P1000835",
+  "credit": "kcxd",
+  "licence": "CC BY 2.0",
+  "page": "https://www.flickr.com/photos/26786061@N00/1441582134",
+  "thumb": "https://api.openverse.org/v1/images/cb9b7fab-7270-4729-9446-7088d0cef403/thumb/",
+  "full": "https://live.staticflickr.com/1066/1441582134_126b522aa3.jpg",
+  "w": 500,
+  "h": 375,
+  "source": "Flickr",
+  "desc": ""
+ },
+ {
+  "title": "The lounge inside the Cross Keys Temperance Inn at Cautley",
+  "credit": "Phil Catterall",
+  "licence": "CC BY-SA 2.0",
+  "page": "https://www.geograph.org.uk/photo/517722",
+  "thumb": "https://api.openverse.org/v1/images/65ae27c6-2533-42f8-945c-b10692244f9a/thumb/",
+  "full": "https://s0.geograph.org.uk/photos/51/77/517722_4d16ce9b.jpg",
+  "w": 640,
+  "h": 480,
+  "source": "geographorguk",
+  "desc": ""
+ }
+]

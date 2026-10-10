@@ -1,0 +1,24 @@
+{
+  "name": "golden-grids-study-13-airbnb",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Golden Grids layout study 13: Airbnb's home page, a search for Provincetown and a hotel listing as stacked golden grids under the GIFcommit brand, with type that scales to its square and photographs under open licences.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@gifcommit/golden-grids": "^5.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^5.2.0",
+    "typescript": "^5.9.0",
+    "vite": "^7.3.0"
+  }
+}
