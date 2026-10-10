@@ -1,6 +1,7 @@
 {
   "number": "13",
   "name": "Airbnb",
+  "brand": "GIFbnb",
   "notice": "A layout study, not Airbnb: its home page, a search and a listing rebuilt with Golden Grids as GIFbnb, a parody name. Not affiliated with Airbnb; every stay and price is invented and nothing can be booked.",
   "pages": {
     "index": "Home",

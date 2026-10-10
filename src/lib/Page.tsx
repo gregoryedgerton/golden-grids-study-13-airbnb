@@ -53,7 +53,7 @@ export function Page({ current, source, bar, children }: { current: string; sour
             </ul>
           </div>
         </div>
-        <div className="wrap foot__base"><span>GIFbnb, a layout study</span><span>English (US)</span><span>$ USD</span></div>
+        <div className="wrap foot__base"><span>© 2026 GIFbnb</span><span>English (US)</span><span>$ USD</span></div>
       </footer>
       <StudyDisclosure>
         <p>This page follows <a href={source.url}>{source.label}</a> as it was shown on October 9, 2026.</p>
