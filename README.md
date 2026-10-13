@@ -1,3 +1,5 @@
+GIFcommit00012
+
 # Layout study — Airbnb, second pass, as GIFbnb
 
 **Live:** [`https://gregoryedgerton.github.io/golden-grids-study-13-airbnb/`](https://gregoryedgerton.github.io/golden-grids-study-13-airbnb/)
