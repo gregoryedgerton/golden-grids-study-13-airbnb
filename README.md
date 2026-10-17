@@ -2,7 +2,7 @@ GIFcommit00012
 
 # Layout study — Airbnb, second pass, as GIFbnb
 
-**Live:** [`https://gregoryedgerton.github.io/golden-grids-study-13-airbnb/`](https://gregoryedgerton.github.io/golden-grids-study-13-airbnb/)
+**Live:** [`https://gregoryedgerton.github.io/golden-grids-study-13-gifbnb/`](https://gregoryedgerton.github.io/golden-grids-study-13-gifbnb/)
 
 An unaffiliated layout study. It rebuilds three pages of
 [airbnb.com](https://www.airbnb.com/) (the home page, the search results for
@@ -176,3 +176,5 @@ NODE_PATH=<a node_modules with playwright> node captures/scan.cjs http://localho
 
 Pushing to `main` deploys to GitHub Pages. Study tools: `?tools=1`
 (`g` grid outlines, `n` band notes, `m` reduced motion).
+
+- **Address (2026-10-17, Greg).** The repository moved from `golden-grids-study-13-airbnb` to `golden-grids-study-13-gifbnb`, so the reference's name is no longer in the study's web address (a step against the Safe Browsing flag on the shared origin); the old address no longer serves anything.

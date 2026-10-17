@@ -18,7 +18,7 @@ modules (search bar, filter chips, tabs, booking bar, lists);
 `src/photos.json` the provenance. Read `docs/program/PROGRAM.md`, then
 `STUDY-BRIEF.md`, then `README.md`.
 
-Live at https://gregoryedgerton.github.io/golden-grids-study-13-airbnb/;
+Live at https://gregoryedgerton.github.io/golden-grids-study-13-gifbnb/;
 pushing to `main` deploys.
 
 ## Rules that are not negotiable
@@ -311,3 +311,5 @@ opened in StackBlitz at `https://stackblitz.com/~/github.com/gregoryedgerton/gol
 - Do not append `?file=` to the `~/github.com` link; it made the IDE fail to
   start in testing. The classic `/github/` importer accepts `?file=` but waits
   on a WebSocket and can stall at "Cloning repo from GitHub".
+
+- **Address (2026-10-17, Greg).** The repository moved from `golden-grids-study-13-airbnb` to `golden-grids-study-13-gifbnb`, so the reference's name is no longer in the study's web address (a step against the Safe Browsing flag on the shared origin); the old address no longer serves anything.
